@@ -19,6 +19,12 @@
 <link href="style/type/fontello.css" rel="stylesheet">
 <link href="style/type/budicons.css" rel="stylesheet">
 <style type="text/css">
+.frame, 
+.sp-thumbnail-container, 
+.sp-image-container {
+  border: none;
+}
+
 .frame:before, 
 .sp-thumbnail-container:before, 
 .sp-image-container:before {
