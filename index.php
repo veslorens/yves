@@ -1,3 +1,3 @@
 <?php
 
-die('yves-lorenzo');
+die('Yves Lorenzo Yee');
