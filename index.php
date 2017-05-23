@@ -319,13 +319,10 @@ figure img {
     <footer class="footer box">
       <p class="pull-left">All rights reserved. © 2017</p>
       <ul class="social pull-right">
-        <li><a href="#"><i class="icon-s-rss"></i></a></li>
+        <li><a href="#"><i class="icon-s-github"></i></a></li>
+        <li><a href="#"><i class="icon-s-linkedin"></i></a></li>
         <li><a href="#"><i class="icon-s-twitter"></i></a></li>
         <li><a href="#"><i class="icon-s-facebook"></i></a></li>
-        <li><a href="#"><i class="icon-s-dribbble"></i></a></li>
-        <li><a href="#"><i class="icon-s-pinterest"></i></a></li>
-        <li><a href="#"><i class="icon-s-instagram"></i></a></li>
-        <li><a href="#"><i class="icon-s-vimeo"></i></a></li>
       </ul>
       <div class="clearfix"></div>
     </footer>
