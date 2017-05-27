@@ -16,6 +16,7 @@
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,700,600,500,300' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic' rel='stylesheet' type='text/css'>
   <link href="style/type/fontello.css" rel="stylesheet">
+  <!-- BUDICONS: http://www.agenciaplane.cl/budicon.html -->
   <link href="style/type/budicons.css" rel="stylesheet">
 
   <style type="text/css">
@@ -114,9 +115,7 @@
               <img alt="slidebg1" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="repeat" src="style/images/dummy.png">
               
               <div class="tp-caption caption large sfb" data-easing="Sine.easeOut" data-endspeed="100" data-speed="900" data-start="1000" data-voffset="-200" data-x="center" data-y="center">
-                <!-- <figure class="frame text-center"> -->
                 <img alt="" class="img-profile" src="style/images/art/about.jpg"> 
-                <!-- </figure> -->
               </div>
               <h1 class="tp-caption caption large sfb" data-easing="Sine.easeOut" data-endspeed="100" data-speed="900" data-start="1000" data-voffset="30" data-x="center" data-y="center">
                 Yves Lorenzo Yee
@@ -140,11 +139,11 @@
     <div class="container">
       <section id="about">
         <div class="box">
-          <h2 class="section-title">The Spider</h2>
+          <h2 class="section-title text-uppercase">The Spider</h2>
+          <div class="divide20"></div>
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <p class="lead">Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna.</p>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Fusce dapibus, tellus.</p>
               <p>Tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
             </div>
             <!-- /column -->
@@ -156,14 +155,15 @@
           </div>
           <!-- /.row -->
           <div class="clearfix"></div>
-          <div class="divide40"></div>
-          <h2 class="section-title">My Skills</h2>
-          <div class="divide10"></div>
+          <!-- <div class="divide40"></div> -->
+          <hr/>
+          <h2 class="section-title text-uppercase">Known Techniques</h2>
+          <div class="divide30"></div>
           <div class="services-1">
             <div class="row">
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -175,7 +175,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -187,7 +187,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -200,11 +200,11 @@
               <div class="divide30"></div>
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
-                  <h5>pposU</h5>
+                  <h5>Pposu</h5>
                   <p>Fusce dapibus commodo, tortor mauris condimentum nibh, ut fermentum massa. Maecenas sed diam eget risus.</p>
                 </div>
                 <!-- /.text -->
@@ -212,7 +212,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -224,7 +224,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -236,7 +236,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -248,7 +248,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -260,7 +260,7 @@
               <!-- /column -->
               <div class="col-md-4 col-sm-6">
                 <div class="icon">
-                  <i class="budicon-diamond icn"></i>
+                  <i class="budicon-award-1 icn"></i>
                 </div>
                 <!-- /.icon -->
                 <div class="text">
@@ -280,33 +280,9 @@
       <!-- /#about -->
       <section id="contact">
         <div class="box">
-          <h2 class="section-title">Contact Me</h2>
-          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+          <h2 class="section-title text-uppercase">Send me an email</h2>
           <div class="divide20"></div>
-          <div class="row text-center services-2">
-            <div class="col-md-3 col-sm-6">
-              <i class="budicon-map"></i>
-              <p>Republic of the Philippines</p>
-            </div>
-            <div class="col-md-3 col-sm-6">
-              <i class="budicon-telephone"></i>
-              <p>00 (123) 456 78 90<br>
-                00 (987) 654 32 10
-              </p>
-            </div>
-            <div class="col-md-3 col-sm-6">
-              <i class="budicon-mobile"></i>
-              <p>00 (123) 456 78 90<br>
-                00 (987) 654 32 10
-              </p>
-            </div>
-            <div class="col-md-3 col-sm-6">
-              <i class="budicon-mail"></i>
-              <p><a class="nocolor" href="#">yves@lorenzo.com</a></p>
-            </div>
-          </div>
           <!-- /.services-2 -->
-          <div class="divide30"></div>
           <div class="form-container">
             <div class="response alert alert-success"></div>
             <form action="contact/form-handler.php" class="forms" method="post">
@@ -356,7 +332,7 @@
       </section>
       <!-- /#contact -->
       <footer class="footer box">
-        <p class="pull-left">All rights reserved. © 2017</p>
+        <p class="pull-left">© 2017 Yves Lorenzo. All rights reserved. </p>
         <ul class="social pull-right">
           <li>
             <a href="#"><i class="icon-s-github"></i></a>
