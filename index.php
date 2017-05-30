@@ -340,12 +340,12 @@
           <li>
             <a href="#"><i class="icon-s-linkedin"></i></a>
           </li>
-          <li>
+          <!-- <li>
             <a href="#"><i class="icon-s-twitter"></i></a>
           </li>
           <li>
             <a href="#"><i class="icon-s-facebook"></i></a>
-          </li>
+          </li> -->
         </ul>
         <div class="clearfix"></div>
       </footer>
