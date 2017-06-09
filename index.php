@@ -6,7 +6,19 @@
   <meta content="" name="description">
   <meta content="" name="author">
   <link href="style/images/favicon.png" rel="shortcut icon">
+  
   <title>Yves Lorenzo</title>
+  
+  <!-- 
+  You can use Open Graph tags to customize link previews.
+  Learn more: https://developers.facebook.com/docs/sharing/webmasters 
+  -->
+  <meta property="og:url"           content="http://xperi.app/fb-share.php" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="YLY" />
+  <meta property="og:description"   content="The personal website of Yves Lorenzo Yee." />
+  <meta property="og:image"         content="http://xperi.app/img/one-piece.jpg" />
+
   <!-- Bootstrap core CSS -->
   <link href="style/css/bootstrap.min.css" rel="stylesheet">
   <link href="style/css/plugins.css" rel="stylesheet">
