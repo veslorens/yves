@@ -7,17 +7,7 @@
   <meta content="" name="author">
   <link href="style/images/favicon.png" rel="shortcut icon">
   
-  <title>Yves Lorenzo</title>
-  
-  <!-- 
-  You can use Open Graph tags to customize link previews.
-  Learn more: https://developers.facebook.com/docs/sharing/webmasters 
-  -->
-  <meta property="og:url"           content="http://yves-lorenzo.com" />
-  <meta property="og:type"          content="website" />
-  <meta property="og:title"         content="YLY" />
-  <meta property="og:description"   content="The personal website of Yves Lorenzo Yee." />
-  <!-- <meta property="og:image"         content="http://cdn.wallpapersafari.com/89/74/Cae4hX.jpg" /> -->
+  <title>Yves</title>
 
   <!-- Bootstrap core CSS -->
   <link href="style/css/bootstrap.min.css" rel="stylesheet">
@@ -351,21 +341,6 @@
           </li>
           <li>
             <a href="#"><i class="icon-s-linkedin"></i></a>
-          </li>
-          <li>
-            <!-- Load Facebook SDK for JavaScript -->
-            <!-- <div id="fb-root"></div>
-            <script>(function(d, s, id) {
-              var js, fjs = d.getElementsByTagName(s)[0];
-              if (d.getElementById(id)) return;
-              js = d.createElement(s); js.id = id;
-              js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9&appId=1668680750065220";
-              fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script> -->
-
-            <!-- Your share button code -->
-            <!-- <div class="fb-share-button" data-href="http://yves-lorenzo.com/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fyves-lorenzo.com%2F&amp;src=sdkpreparse">Share</a></div> -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=http://yves-lorenzo.com" target="_blank">Share on Facebook</a>
           </li>
           <!-- <li>
             <a href="#"><i class="icon-s-twitter"></i></a>
