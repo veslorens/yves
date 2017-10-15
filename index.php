@@ -58,6 +58,7 @@
     </div>
   </div>
   <div class="body-wrapper">
+
     <nav class="navbar navbar-default" role="navigation">
       <div class="navbar-header">
         <a class="btn responsive-menu" data-target=".navbar-collapse" data-toggle="collapse"><i></i></a>
@@ -109,7 +110,16 @@
       <!-- /#elsewhere -->
     </nav>
     <!-- /.navbar -->
-    <section class="naked" id="home">
+    <section class="naked" id="home" style="position: relative;">
+
+      <img src="style/images/utility/work-in-progress.png" style="
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: auto;
+        width: 14em;
+      ">
+
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
           <ul>
