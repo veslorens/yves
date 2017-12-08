@@ -1,0 +1,78 @@
+/* 
+ * 
+ * HELPERS 
+ * 
+ */
+
+.tx-lumos { color: #9cbc68 !important; }
+.tx-lumos-2 { color: #a1cb5c !important; }
+
+.bg-lumos { background-color: #9cbc68 !important; }
+.bg-lumos-2 { background-color: #a1cb5c !important; }
+
+.border-lumos { border-color: #9cbc68 !important; }
+.border-lumos-2 { border-color: #a1cb5c !important; }
+.border-5 { border-width: 5px !important; }
+
+.wt-100 { font-weight: 100 !important; }
+
+.mg-5 { margin: 5px !important; }
+
+/* Horizontal Line With Words In The Middle */
+.hr-mid {
+  overflow: hidden;
+  text-align: center;
+}
+.hr-mid:before,
+.hr-mid:after {
+  background-color: #3b4b21;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+.hr-mid:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+.hr-mid:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+.label-lumos {
+  display: inline-block;
+  font-size: 17px;
+  background-color: #478659;
+  font-weight: 900;
+  margin: 2px;
+  white-space: normal;
+}
+
+/*
+ * 
+ * CUSTOM
+ * 
+ */
+
+#headline {
+  z-index: 3; 
+  max-width: auto; 
+  max-height: auto; 
+  white-space: nowrap;
+}
+
+/*
+ *
+ * OVERRIDE LUMOS
+ * 
+ */
+
+.cbp-l-caption-title {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
