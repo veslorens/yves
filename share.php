@@ -1,3 +1,10 @@
+<?php 
+
+$baseUrl = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
+$currentUrl = $baseUrl . "$_SERVER[REQUEST_URI]";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,16 +13,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- http://localhost:8888/style/images/art/bg-ori.jpg -->
 
+    <meta property="og:site_name" content="Yves Lorenzo Yee (Site Name)">
+    <meta property="og:url" content="<?php echo $currentUrl; ?>">  
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Yves Lorenzo Yee (Title)">
+    <meta property="og:description" content="Yves Lorenzo Yee (Description)">
+    <meta property="og:image" content="<?php echo $baseUrl . '/style/images/art/desktop-oorbook.png'; ?>">
+    <meta property="fb:app_id" content="1668680750065220">
 
-    <meta property="og:site_name" content="Scotch">
-    <meta property="og:url" content="https://scotch.io">  
+    <!-- <meta property="og:site_name" content="Scotch"> -->
+    <!-- <meta property="og:url" content="https://scotch.io">   -->
     <!-- <meta property="og:type" content="website">  -->
     <!-- /* or this depending content type */  -->
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="Scotch Web Development">
-    <meta property="og:description" content="Scotch is a web development blog discussing all things programming, development, web, and life.">
-    <meta property="og:image" content="https://www.havefunteaching.com/wp-content/uploads/2013/07/letter-y-video-350x350.png">
-    <meta property="fb:app_id" content="1668680750065220">
+    <!-- <meta property="og:type" content="article"> -->
+    <!-- <meta property="og:title" content="Scotch Web Development"> -->
+    <!-- <meta property="og:description" content="Scotch is a web development blog discussing all things programming, development, web, and life."> -->
+    <!-- <meta property="og:image" content="https://www.havefunteaching.com/wp-content/uploads/2013/07/letter-y-video-350x350.png"> -->
+    <!-- <meta property="fb:app_id" content="1668680750065220"> -->
+
+
 
     <title>Yves</title>
 
