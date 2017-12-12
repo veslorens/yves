@@ -7,7 +7,7 @@
     <meta name="description" content="Yves Lorenzo Yee - Personal Portfolio Website">
     <meta name="keywords" content="yves lorenzo yee, yves lorenzo, yves, lorenzo, yee, yaloviya">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="style/images/favicon.png">
+    <link rel="shortcut icon" href="public/uploads/images/favicon.png">
     <!-- Bootstrap core CSS -->
     <link href="style/css/bootstrap.min.css" rel="stylesheet">
     <link href="style/css/plugins.css" rel="stylesheet">
@@ -39,7 +39,7 @@
         <div class="navbar-header"> <a class="btn responsive-menu" data-toggle="collapse" data-target=".navbar-collapse"><i></i></a>
           <div class="navbar-brand text-center"> 
             <a href="/">
-              <img src="style/images/logo.png" alt="" data-src="style/images/logo.png" data-ret="style/images/logo@2x.png" class="retina" />
+              <img src="public/uploads/images/logo.png" alt="" data-src="public/uploads/images/logo.png" data-ret="public/uploads/images/logo@2x.png" class="retina" />
             </a> 
           </div>
         </div>
@@ -58,7 +58,7 @@
           <div class="fullscreenbanner">
             <ul>
               <li data-transition="fade"> 
-                <img src="style/images/dummy.png" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat">
+                <img src="public/uploads/images/dummy.png" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat">
                 <h1 class="tp-caption caption large sfb" data-x="center" data-y="center" data-voffset="-25" data-speed="900" data-start="1000" data-endspeed="100" data-easing="Sine.easeOut">
                   Y<span class="wt-100">ves</span> 
                   L<span class="wt-100">orenzo</span> 
@@ -90,7 +90,7 @@
               <ul>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//unitynetwork.com" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-unitynetwork.png" alt="Unity Network"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-unitynetwork.png" alt="Unity Network"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -103,7 +103,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//impactinstrument.com" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-impactinstrument.png" alt="Impact Instrument"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-impactinstrument.png" alt="Impact Instrument"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -116,7 +116,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//ascendingprofitsystem.com" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-ascendingprofitsystem.png" alt="Ascending Profit System"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-ascendingprofitsystem.png" alt="Ascending Profit System"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -129,7 +129,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//gavagives.com" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-gava.png" alt="Gava"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-gava.png" alt="Gava"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -142,7 +142,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//insightspedia.com" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-insightspedia.png" alt="Insightspedia"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-insightspedia.png" alt="Insightspedia"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -155,7 +155,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//philzter.ph" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-philzter.png" alt="Philzter"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-philzter.png" alt="Philzter"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -168,7 +168,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//rocketpages.net" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-rocketpages.png" alt="Rocket Pages"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-rocketpages.png" alt="Rocket Pages"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -181,7 +181,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//tracc-accounting.com" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-tracc.png" alt="Tracc"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-tracc.png" alt="Tracc"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -194,7 +194,7 @@
                 </li>
                 <li class="cbp-item frame"> 
                   <a class="cbp-caption" href="//oorbook.net" target="_blank">
-                    <div class="cbp-caption-defaultWrap"> <img src="style/images/art/desktop-oorbook.png" alt="Oorbook"> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="public/uploads/images/base/desktop-oorbook.png" alt="Oorbook"> </div>
                     <div class="cbp-caption-activeWrap">
                       <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
@@ -217,7 +217,7 @@
             <div class="row">
               <div class="col-md-5 col-md-push-7 col-sm-12">
                 <figure class="frame">
-                  <img src="style/images/art/about.jpg" alt="" class="img-thumbnail" />
+                  <img src="public/uploads/images/base/about.jpg" alt="" class="img-thumbnail" />
                 </figure>
               </div>
               <div class="col-md-7 col-md-pull-5 col-sm-12">
@@ -332,7 +332,7 @@
     <script src="style/js/plugins.js"></script> 
     <script src="style/js/scripts.js"></script>  
     <script>
-      $.backstretch(["style/images/art/bg1.jpg"]);
+      $.backstretch(["public/uploads/images/base/bg1.jpg"]);
 
       function gotoSection(section) {
         location.href = '#';
