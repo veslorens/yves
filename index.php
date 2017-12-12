@@ -10,16 +10,16 @@
     <link rel="shortcut icon" href="public/uploads/images/favicon.png">
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="public/plugins/bootstrap/css/bootstrap.min.css">
-    <link href="style/css/plugins.css" rel="stylesheet">
-    <link href="style/css/prettify.css" rel="stylesheet">
+    <link rel="stylesheet" href="public/themes/lumos/css/plugins.css">
+    <link rel="stylesheet" href="public/themes/lumos/css/prettify.css">
     <link rel="stylesheet" href="public/themes/lumos/app.min.css">
-    <link href="style/css/color/green.css" rel="stylesheet">
+    <link rel="stylesheet" href="public/themes/lumos/css/green.css">
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,700,600,500,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic' rel='stylesheet' type='text/css'>
     <link href="style/type/fontello.css" rel="stylesheet">
     <link href="style/type/budicons.css" rel="stylesheet">
     <!-- Custom Styles -->
-    <link href="style/css/custom-styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="public/themes/lumos/css/custom-styles.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="style/js/html5shiv.js"></script>
