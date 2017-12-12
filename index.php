@@ -11,7 +11,7 @@
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="public/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="public/themes/lumos/css/plugins.min.css">
-    <link rel="stylesheet" href="public/themes/lumos/css/prettify.css">
+    <link rel="stylesheet" href="public/themes/lumos/css/prettify.min.css">
     <link rel="stylesheet" href="public/themes/lumos/app.min.css">
     <link rel="stylesheet" href="public/themes/lumos/css/green.min.css">
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,700,600,500,300' rel='stylesheet' type='text/css'>
