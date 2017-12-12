@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="public/uploads/images/favicon.png">
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="public/plugins/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="public/themes/lumos/css/plugins.css">
+    <link rel="stylesheet" href="public/themes/lumos/css/plugins.min.css">
     <link rel="stylesheet" href="public/themes/lumos/css/prettify.css">
     <link rel="stylesheet" href="public/themes/lumos/app.min.css">
     <link rel="stylesheet" href="public/themes/lumos/css/green.min.css">
