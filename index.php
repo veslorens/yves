@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="public/themes/lumos/css/green.min.css">
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,700,600,500,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic' rel='stylesheet' type='text/css'>
-    <link href="public/themes/lumos/fonts/fontello.css" rel="stylesheet">
+    <link href="public/themes/lumos/fonts/fontello.min.css" rel="stylesheet">
     <link href="public/themes/lumos/fonts/budicons.css" rel="stylesheet">
     <!-- Custom Styles -->
     <link rel="stylesheet" href="public/themes/lumos/css/custom-styles.min.css">
