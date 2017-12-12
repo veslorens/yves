@@ -328,7 +328,7 @@
     <script src="public/plugins/jquery/jquery.min.js"></script> 
     <script src="public/plugins/bootstrap/js/bootstrap.min.js"></script> 
     <script src="public/plugins/jquery/jquery.themepunch.tools.min.js"></script> 
-    <script src="public/themes/lumos/js/classie.js"></script> 
+    <script src="public/themes/lumos/js/classie.min.js"></script> 
     <script src="public/themes/lumos/js/plugins.js"></script> 
     <script src="public/themes/lumos/js/scripts.js"></script>  
     <script>
