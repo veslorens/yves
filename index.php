@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="public/themes/lumos/css/plugins.css">
     <link rel="stylesheet" href="public/themes/lumos/css/prettify.css">
     <link rel="stylesheet" href="public/themes/lumos/app.min.css">
-    <link rel="stylesheet" href="public/themes/lumos/css/green.css">
+    <link rel="stylesheet" href="public/themes/lumos/css/green.min.css">
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,700,600,500,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic' rel='stylesheet' type='text/css'>
     <link href="public/themes/lumos/fonts/fontello.css" rel="stylesheet">
