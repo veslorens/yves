@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="public/uploads/images/favicon.png">
     <!-- Bootstrap core CSS -->
-    <link href="style/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="public/plugins/bootstrap/css/bootstrap.min.css">
     <link href="style/css/plugins.css" rel="stylesheet">
     <link href="style/css/prettify.css" rel="stylesheet">
     <link rel="stylesheet" href="public/themes/lumos/app.min.css">
@@ -326,7 +326,7 @@
     </div>
 
     <script src="style/js/jquery.min.js"></script> 
-    <script src="style/js/bootstrap.min.js"></script> 
+    <script src="public/plugins/bootstrap/js/bootstrap.min.js"></script> 
     <script src="style/js/jquery.themepunch.tools.min.js"></script> 
     <script src="style/js/classie.js"></script> 
     <script src="style/js/plugins.js"></script> 
