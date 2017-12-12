@@ -19,7 +19,7 @@
     <link href="public/themes/lumos/fonts/fontello.css" rel="stylesheet">
     <link href="public/themes/lumos/fonts/budicons.css" rel="stylesheet">
     <!-- Custom Styles -->
-    <link rel="stylesheet" href="public/themes/lumos/css/custom-styles.css">
+    <link rel="stylesheet" href="public/themes/lumos/css/custom-styles.min.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
