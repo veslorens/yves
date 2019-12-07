@@ -315,7 +315,7 @@
         </section>
         
         <footer class="footer box">
-          <p class="pull-left">© 2017 All rights reserved.</p>
+          <p class="pull-left">© <?php echo date("Y"); ?> All rights reserved.</p>
           <ul class="social pull-right">
             <li><a href="//github.com/veslorens" target="_blank"><i class="icon-s-github"></i></a></li>
             <li><a href="//www.linkedin.com/in/veslorens/" target="_blank"><i class="icon-s-linkedin"></i></a></li>
